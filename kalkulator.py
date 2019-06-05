@@ -20,6 +20,9 @@ def divide(x, y):
 # This function divides two numbers
 def divideby10(x, y):
    return x / (10*y)
+   
+ def divideby5(x, y):
+ return x / (5*y)
 
 print("Select operation.")
 print("1.Add")
